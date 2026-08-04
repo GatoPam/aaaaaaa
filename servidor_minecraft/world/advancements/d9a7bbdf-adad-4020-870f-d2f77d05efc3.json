@@ -85,6 +85,12 @@
     },
     "done": true
   },
+  "archipelagoadditions:archipelagoadditions/thors_ore": {
+    "criteria": {
+      "requirement": "2026-08-04 22:24:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2026-08-04 21:44:55 +0000",

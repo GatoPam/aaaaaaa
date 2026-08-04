@@ -98,3 +98,7 @@
 2026/08/04 22:03:28 magicsock: disco: node [nGzJf] d:f85e3df96eb83df7 now using 186.156.24.35:41641 mtu=1360 tx=e9a8deee36a8
 2026/08/04 22:04:28 magicsock: disco: node [nGzJf] d:f85e3df96eb83df7 now using 186.156.24.35:56644 mtu=1360 tx=adbe8d63d1f7
 2026/08/04 22:09:29 magicsock: disco: node [nGzJf] d:f85e3df96eb83df7 now using 186.156.24.35:41641 mtu=1360 tx=22d2377d62be
+2026/08/04 22:26:44 magicsock: adding connection to derp-16 for [n2nzE]
+2026/08/04 22:26:44 magicsock: 3 active derp conns: derp-11=cr49m0s,wr16s derp-16=cr2ms,wr2ms derp-27=cr51m0s,wr2s
+2026/08/04 22:26:44 derphttp.Client.Send: connecting to derp-16 (mia)
+2026/08/04 22:26:44 magicsock: derp-16 connected; connGen=1
